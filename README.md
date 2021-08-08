@@ -4,3 +4,5 @@ This project is able to detect hand written digit from 0 to 9.
 Tensorflow, Keras, Python
 ## Used dataset:
 Mnist dataset
+# IDE:
+Google Colab/Jupyter Notebook
